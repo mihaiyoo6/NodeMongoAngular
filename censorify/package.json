@@ -1,0 +1,19 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "Node,Mongo and AngularJS web Development first project",
+  "main": "censortext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mihaiyoo6/NodeMongoAngular.git"
+  },
+  "author": "Mijea Mihai <mijeamihai@yahoo.com> (http://mijeamihai.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihaiyoo6/NodeMongoAngular/issues"
+  },
+  "homepage": "https://github.com/mihaiyoo6/NodeMongoAngular"
+}
